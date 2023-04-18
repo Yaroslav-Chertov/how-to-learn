@@ -1,5 +1,5 @@
 # Проект: Научиться учиться
-[Ссылка на GitHub Pages] (https://yaroslav-chertov.github.io/how-to-learn/)
+[Ссылка на GitHub Pages](https://yaroslav-chertov.github.io/how-to-learn/)
 
 ## Создана в рамках обучения в [Яндекс.Практикум](https://praktikum.yandex.ru/) на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
 
